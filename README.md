@@ -14,7 +14,7 @@ A clean, modern space to write, manage, and grow your blog posts.
 
 <br />
 
-[Live Repo](https://github.com/Munkasiiiiir/blogcage) · [Issues](https://github.com/Munkasiiiiir/blogcage/issues)
+[Live Repo](https://github.com/Munkasiiiiir/BlogCage) · [Issues](https://github.com/Munkasiiiiir/BlogCage/issues)
 
 </div>
 
@@ -58,7 +58,7 @@ Testing      Vitest
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Munkasiiiiir/blogcage.git
+git clone https://github.com/Munkasiiiiir/BlogCage.git
 cd blogcage
 npm install
 ```
